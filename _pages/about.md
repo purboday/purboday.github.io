@@ -1,15 +1,13 @@
 ---
 permalink: /
 title:
-excerpt:
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-=========
 Hi! I am Purboday. I am a PhD. in Electrical Engineering from Vanderbilt University, where I worked under the guidance of [Prof. Gabor Karsai](https://engineering.vanderbilt.edu/bio/gabor-karsai) at the Vanderbilt [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am a cyber physical systems researcher who works at the interface of computing and physical processes in order to build highly scalable, safe and performant systems that can solve some of society's most challenging problems in areas such as power grids, transportation systems and so on.
 
 Research Interests
@@ -20,4 +18,4 @@ For my dissertation titled *Fault Tolerance Design Approaches for Distributed Cy
 
 I am looking for research and development roles in the future wehre I can continue to expand my knowledge and experience in resilient control and management software for societal scale cyber physical systems. In particular, I am interested in working on problems related to how the computing layer can cope with failure events in the physical environment or processes such as natural disasters, equipment failures etc. and how predictive approaches using learning-enabled components can be leveraged to counteract against them. I am also looking to take up more leadership and mentoring opportunities within a research setting since I enjoy the teaching process.
 
-If you are interested in these areas and want to chat or collaborate, please feel free to reach out at purboday [dot] ghosh [at] vanderbilt [dot] edu.
+If you are interested in these areas and want to chat or collaborate, please feel free to reach out at `purboday [dot] ghosh [at] vanderbilt [dot] edu`.
