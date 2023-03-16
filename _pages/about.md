@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+=========
 Hi! I am Purboday. I am a PhD. in Electrical Engineering from Vanderbilt University, where I worked under the guidance of [Prof. Gabor Karsai](https://engineering.vanderbilt.edu/bio/gabor-karsai) at the Vanderbilt [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am a cyber physical systems researcher who works at the interface of computing and physical processes in order to build highly scalable, safe and performant systems that can solve some of society's most challenging problems in areas such as power grids, transportation systems and so on.
 
 Research Interests
