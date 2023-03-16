@@ -21,4 +21,4 @@ For my dissertation titled *Fault Tolerance Design Approaches for Distributed Cy
 
 I am looking for research and development roles in the future wehre I can continue to expand my knowledge and experience in resilient control and management software for societal scale cyber physical systems. In particular, I am interested in working on problems related to how the computing layer can cope with failure events in the physical environment or processes such as natural disasters, equipment failures etc. and how predictive approaches using learning-enabled components can be leveraged to counteract against them. I am also looking to take up more leadership and mentoring opportunities within a research setting since I enjoy the teaching process.
 
-If you are interested in these areas and want to chat or collaborate, please feel free to reach out at purboday [dot] ghosh [at] vanderilt [dot] edu.
+If you are interested in these areas and want to chat or collaborate, please feel free to reach out at purboday [dot] ghosh [at] vanderbilt [dot] edu.
