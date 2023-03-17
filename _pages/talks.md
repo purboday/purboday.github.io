@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Graduate Research Seminar at Vanderbilt Univeristy
+### Graduate Research Seminar at Vanderbilt Univeristy (2022)
 
 Was a speaker at the Vanderbilt University EE/ECE graduate seminar series for the 2022 cycle. Presented research methodologies for designing fault-tolerant cyber-physical systems and highlighted key ideas, differences and approaches for proactive and reactive philosphies.
 
@@ -18,7 +18,7 @@ Presented paper titled "An Automated Deployment and Testing Framework for Resili
 
 The presentation video can be viewed [here](https://youtu.be/XpxhFQWIokc).
 
-### Short Paper Presentation at IEEE ISORC 2021
+### Short Paper Presentation at IEEE ISORC (2021)
 
 Presented the short paper titled "An integrated cyber-physical fault management approach"  at the 23rd International Symposium on Real-Time Distributed Computing (ISORC) in May, 2020.
 
