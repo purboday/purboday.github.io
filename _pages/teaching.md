@@ -11,4 +11,4 @@ Worked as a Teaching Assistant at Vanderbilt University for four semesters. Cour
 
 ### Certification
 
-Completed the [Certificate in College Teaching](https://drive.google.com/file/d/1JlNIN9c9F6NDCdC4Ej9zNP4BCXgn2S79/view) training from the Vanderbilt [Center for Teaching](https://cft.vanderbilt.edu/) in May 2022.
+Completed the [Certificate in College Teaching](https://drive.google.com/file/d/1JlNIN9c9F6NDCdC4Ej9zNP4BCXgn2S79/view?usp=sharing) training from the Vanderbilt [Center for Teaching](https://cft.vanderbilt.edu/) in May 2022.
