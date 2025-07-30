@@ -22,4 +22,4 @@ At NREL, I work on multi-agent modeling and simulation tools in Julia to analyze
 
 I enjoy applying model-based engineering and data-driven techniques to energy problems, and I'm always looking for opportunities to collaborate on research that improves the robustness and intelligence of our critical infrastructure.
 
-If you are interested in these areas and want to chat or collaborate, please feel free to reach out at `purboday [dot] ghosh [at] vanderbilt [dot] edu`.
+If you are interested in these areas and want to chat or collaborate, please feel free to reach out at `purboday [dot] ghosh [at] nrel [dot] gov`.
