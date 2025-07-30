@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Purboday. I currently work as a Researcher at the National Renewable Energy Laboratory, where I work at the Grid Panning and Analysis Center.
+Hi! I am Purboday. I currently work as a Researcher at the [National Renewable Energy Laboratory](https://www.nrel.gov), where I work at the Grid Panning and Analysis Center.
 
 I have a PhD. in Electrical Engineering from Vanderbilt University, where I worked under the guidance of [Prof. Gabor Karsai](https://engineering.vanderbilt.edu/bio/gabor-karsai) at the Vanderbilt [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/). I am a cyber physical systems researcher who works at the interface of computing and physical processes in order to build highly scalable, safe and performant systems that can solve some of society's most challenging problems in areas such as power grids.
 
