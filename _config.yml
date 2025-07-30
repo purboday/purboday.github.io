@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Purboday Ghosh"
   avatar           : "download.png"
-  bio              : "PhD Electrical Engineering, Vanderbilt University, 2023"
-  location         : "Nashville, TN, USA"
+  bio              : "National Renewable Energy laboratory"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0lSSCAYAAAAJ&hl=en"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/purboday"
+  github           : "purboday"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/purboday-ghosh-08907a96/"
+  linkedin         : "purboday-ghosh-08907a96/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
