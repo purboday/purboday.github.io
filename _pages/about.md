@@ -14,9 +14,9 @@ I have a PhD. in Electrical Engineering from Vanderbilt University, where I work
 
 Research Interests
 ====================
-I'm a researcher and software engineer working at the intersection of distributed systems and energy. My focus is on building simulation and optimization tools that support large-scale decision-making in electricity systems—from long-term planning to real-time control.
+I'm a researcher and software engineer working at the intersection of distributed systems and energy. My focus is on building simulation and optimization tools that support large-scale decision-making in electricity systems, from long-term planning to real-time control.
 
-I’m especially interested in how decentralized software pipelines can enable resilient, fault-tolerant operation in cyber-physical systems. This includes co-designing the computing and physical layers so they can dynamically respond to failures, disturbances, or uncertainty in the real world—like equipment faults or extreme weather events.
+I’m especially interested in how decentralized software pipelines can enable resilient, fault-tolerant operation in cyber-physical systems. This includes co-designing the computing and physical layers so they can dynamically respond to failures, disturbances, or uncertainty in the real world, like equipment faults or extreme weather events.
 
 At NREL, I work on multi-agent modeling and simulation tools in Julia to analyze electricity markets and grid infrastructure. Previously, I built cloud-based simulation platforms in Python and Django for battery storage revenue modeling and dispatch optimization. My PhD research explored fault-tolerant middleware and hardware-in-the-loop simulations for distributed control of microgrids.
 
